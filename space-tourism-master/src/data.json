@@ -1,0 +1,108 @@
+{
+  "destinations": [
+    {
+      "name": "Moon",
+      "images": {
+        "png": "./assets/destination/image-moon.png",
+        "webp": "./assets/destination/image-moon.webp"
+      },
+      "description": "The Moon is Earth's only natural satellite. It is the fifth largest satellite in the Solar System and the largest and most massive relative to its parent planet, with a diameter about one-quarter that of Earth.",
+      "distance": "384,400 km",
+      "travel": "3 days"
+    },
+    {
+      "name": "mars",
+      "images": {
+        "png": "./assets/destination/image-mars.png",
+        "webp": "./assets/destination/image-mars.webp"
+      },
+      "description": "​Mars is the fourth planet from the Sun a dusty, cold, desert world with a very thin atmosphere. Mars is also a dynamic planet with seasons, polar ice caps, canyons, extinct volcanoes, and evidence that it was even more active in the past.",
+      "distance": "285.05 million km",
+      "travel": " 7 months"
+    },
+    {
+      "name": "jupiter",
+      "images": {
+        "png": "./assets/destination/image-jupiter.png",
+        "webp": "./assets/destination/image-jupiter.webp"
+      },
+      "description": "Jupiter is called a gas giant planet. Its atmosphere is made up of mostly hydrogen gas and helium gas, like the sun. The planet is covered in thick red, brown, yellow and white clouds. The clouds make the planet look like it has stripes.",
+      "distance": "873.11 million km",
+      "travel": "42 days"
+    },
+    {
+      "name": "venus",
+      "images": {
+        "png": "./assets/destination/image-venus.png",
+        "webp": "./assets/destination/image-venus.webp"
+      },
+      "description": "Venus is the brightest object in the sky after the Sun and the Moon, and sometimes looks like a bright star in the morning or evening sky. The planet is a little smaller than Earth, and is similar to Earth inside.",
+      "distance": "125.69 million km",
+      "travel": "97 days"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Rakesh Sharma",
+      "images": {
+        "png": "./assets/crew/image-douglas-hurley.png",
+        "webp": "./assets/crew/image-douglas-hurley.webp"
+      },
+      "role": "Commander",
+      "bio": "Rakesh Sharma, (born Jan. 13, 1949, Patiala, Punjab state, India), Indian military pilot and cosmonaut, the first Indian citizen in space. In 1970 Sharma joined the Indian Air Force as a pilot. He flew 21 combat missions in a MiG-21 in the Bangladesh war of 1971.."
+    },
+    {
+      "name": "Chairman S. Somanath",
+      "images": {
+        "png": "./assets/crew/image-mark-shuttleworth.png",
+        "webp": "./assets/crew/image-mark-shuttleworth.webp"
+      },
+      "role": "Mission Specialist",
+      "bio": "Somanath. Indian Space Research Organisation (ISRO) Chairman S. Somanath on March 22, said the launch of Chandrayaan-3, India's third lunar mission, and the first solar mission Aditya L1 will possibly happen by the middle of 2023.22."
+    },
+    {
+      "name": "Shirisha Bandla",
+      "images": {
+        "png": "./assets/crew/image-victor-glover.png",
+        "webp": "./assets/crew/image-victor-glover.webp"
+      },
+      "role": "Pilot",
+      "bio": "Aeronautical engineer Sirisha Bandla on Sunday became the third Indian-origin woman to fly into space when she joined British billionaire Richard Branson on Virgin Galactic's first fully crewed suborbital test flight from New Mexico."
+    },
+    {
+      "name": "Mylswamy Annadurai",
+      "images": {
+        "png": "./assets/crew/image-anousheh-ansari.png",
+        "webp": "./assets/crew/image-anousheh-ansari.webp"
+      },
+      "role": "Flight Engineer",
+      "bio": "Mylswamy Annadurai, byname Moon Man, (born July 2, 1958, Kodhawady, Tamil Nadu, India), Indian aerospace engineer who held a number of posts with the Indian Space Research Organisation (ISRO), including the directorship (2015–18) of the U R Rao Satellite Centre (formerly the ISRO Satellite Centre)."
+    }
+  ],
+  "technology": [
+    {
+      "name": "Launch vehicle",
+      "images": {
+        "portrait": "./assets/technology/image-launch-vehicle-portrait.jpg",
+        "landscape": "./assets/technology/image-launch-vehicle-landscape.jpg"
+      },
+      "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+    },
+    {
+      "name": "Spaceport",
+      "images": {
+        "portrait": "./assets/technology/image-spaceport-portrait.jpg",
+        "landscape": "./assets/technology/image-spaceport-landscape.jpg"
+      },
+      "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+    },
+    {
+      "name": "Space capsule",
+      "images": {
+        "portrait": "./assets/technology/image-space-capsule-portrait.jpg",
+        "landscape": "./assets/technology/image-space-capsule-landscape.jpg"
+      },
+      "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+    }
+  ]
+}
