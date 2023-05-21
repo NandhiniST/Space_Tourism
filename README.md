@@ -16,7 +16,7 @@
   * React - JS Library<br>
 <br><br>
 # Acknowledgements<br>
-**This project utilizes various open-source libraries and resources. Special thanks to the contributors and maintainers of these projects.**<br><br>
+**This project utilizes various open-source libraries and resources.**<br><br>
 * *React.js: https://react.dev/* <br><br>
 * *Bootstrap: https://getbootstrap.com/* <br><br>
 * *Unsplash: https://unsplash.com/ (for images)* <br>
